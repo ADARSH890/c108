@@ -1,0 +1,42 @@
+.footer_div{
+    position:fixed;
+    bottom:0;
+    color:blue;
+    background-color:cyan;
+    line-height:3;
+    width:100%;
+    font-size:25px;
+    text-align:center;
+    text-shadow:5px 5px 5px gray; 
+
+
+}
+.header_div{
+    background-color:wheat;
+    color:darkred;
+    letter-spacing:3px;
+     font-size:20px;
+
+}
+.header_div p{
+    font: size 15px !important;
+    font-weight:bold;
+    color:slateblue;
+
+}
+button{
+    margin-top:50px;
+    font-weight:bolder;
+    width:130px;
+
+}
+body{
+    background-color: rgb(185, 115, 22);
+    color:whitesmoke;
+    font-family: 'Shizuru', cursive;
+    
+}
+img{
+    margin-top: 50px;
+    margin-left: 50px;
+}
